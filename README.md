@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**wilson-laikl/wilson-laikl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wilson-lai-kl/wilson-lai-kl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my Github page!  </br> I'm Wilson Lai, Data Scientist 🧑🏽‍💻
+<p>Welcome to my Github page!  </br> I'm Wilson Lai, a Civil Engineer, Project Manager & Data Scientist 🧑🏽‍💻
 
 <h3>Things I code with</h3>
 <p>
